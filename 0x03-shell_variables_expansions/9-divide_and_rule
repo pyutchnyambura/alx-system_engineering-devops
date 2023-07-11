@@ -1,3 +1,2 @@
 #!/bin/bash
--divide_and_rule
-
+echo $(($POWER/$DIVIDE))
